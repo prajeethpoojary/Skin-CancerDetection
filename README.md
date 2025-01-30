@@ -43,6 +43,13 @@ To get started with the project, clone the repository and install the necessary 
     ```bash
     pip install -r requirement.txt
     ```
+4. Change the path of the model in Skin-Cancer-Detection-master\About.py
+                                OR
+   place the project in  "D:\final project\project"  example
+     D:\final project\project\EfficientNetB5
+     D:\final project\project\prediction
+     D:\final project\project\Skin-Cancer-Detection-master
+     D:\final project\project\ResNet50
 
 1. Run the app
 
