@@ -1,0 +1,11 @@
+project/prediction/
+venv/
+Skin-Cancer-Detection-master/venv/
+ResNet50/venv/
+EfficientNetB5/venv/
+ResNet50/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
+# Ignore .pyc files
+*.pyc
+
+# Ignore log files
+*.log
