@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-# Load Models
+# Load Models change the location of the model
 @st.cache_resource
 def load_resnet50_model():
     return load_model(r'D:\final project\project\ResNet50\trained_model.h5')
