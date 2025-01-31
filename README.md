@@ -35,7 +35,7 @@ To get started with the project, clone the repository and install the necessary 
     for Windows:
 
     ```bash
-    venv\Scripts\activate
+   cd venv\Scripts   , activate.bat
     ```
 
 1. Install dependencies
