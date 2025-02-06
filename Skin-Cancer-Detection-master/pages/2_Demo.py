@@ -4,6 +4,7 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array
 
+
 # Set Page Configuration
 st.set_page_config(
     page_title="Diagnose.AI - Skin Cancer Detection",
