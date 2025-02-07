@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 st.title("Find a dermatologist")
-
+ 
 city = (
     st.text_input(
         label="Enter your city",
