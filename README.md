@@ -1,4 +1,4 @@
-# Skin Cancer Detection Project
+ # Skin Cancer Detection Project
 
 This project aims to develop a machine learning model for skin cancer detection using images of skin lesions. The model utilizes deep
 learning techniques and neural networks to classify skin lesions as malignant or benign.
